@@ -3,6 +3,8 @@
 <p align="center">
         <img src="https://img.shields.io/badge/Official-LUL-green?style=flat&logo=appveyor" alt="anandmainali" />
   <img src="https://komarev.com/ghpvc/?username=LUUUUUUUUUUL" alt="anandmainali" />
+          <img src="https://komarev.com/ghpvc/?username=LULdev" alt="anandmainali" />
+
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://i.imgur.com/NBjEGar.gif"/>
 <div align="left"> 
